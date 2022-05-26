@@ -1,43 +1,20 @@
-### Hi there 👋
-
-<!--
-**fabricewerger/fabricewerger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## Introduction
 
-My name is Jascha Huisman, a software developer based near Rotterdam and Breda, the Netherlands. Originally I was trained as a multimedia designer and critical thinker at Avans University of Applied Sciences in Breda. My interests lie in the field of front-end development and creative technologies, and my main goal is to become better at being a creative developer by working on cool challenging projects.
-
-## [<img alt="jaschahuisman.nl" height="100px" src="public/logo192.png" />][website]
+My name is Fabrice Werger, a software developer based near Rotterdam and Breda, the Netherlands. Originally trained as a multimedia designer and critical thinker at Avans University of Applied Sciences in Breda. My interests lie in the field of front-end development and creative technologies, and my main goal is to become better at being a creative developer.
 
 ### Recent projects
 
-I have worked on a number of projects during my time at Avans Hogeschool. Here are some of my most recent projects:
+I have worked on a number of projects during my time at Avans Hogeschool/Hogeschool Inholland. Here are some of my most recent projects:
 
-#### Twindle
+#### StartupBureau
+IOS development for Inholland Haarlem, made with swift/swiftUI. Made to communicate with an API/database specifically made for the client.
 
-Full-stack development for a [web application](http://demo.twindle.io) and [marketing](http://twindle.io) development containing WebGL in React and realtime MQTT communication. In association with
+#### Sensual suit
 
-- [Handpicked Agencies](https://www.handpickedagencies.com)
-- [TechTenna](https://www.techtenna.com)
+Creative embodied-experience for [CMD Breda](https://avanscmd.nl/), in collaboration with [May de haas](https://instagram.nl/maydehaas) and [Shimin Chen](https://instagram.nl/shiminchn). A project that can give you control over your emotions. An almost autonomous suit that works with C++, air, servomotors and heatpads.
 
-#### 🖋 Scriptorium
+## How to reach me
 
-Creative back-end development for an [art installation](https://scriptorium.graphicmatters.nl/) of [Graphic Matters](https://graphicmatters.nl), in association with
-
-- [website]: (https://www.fabricewerger.nl)
-- [linkedin]: (https://www.linkedin.com/in/fabricewerger)
-- [twitter]: (https://www.twitter.com/fabricewerger)
-
-- [Handpicked Agencies](https://www.handpickedagencies.com)
+- [Twitter](https://www.twitter.com./fabricewerger)
+- [Website](https://www.fabricewerger.nl)
+- [LinkedIn](https://www.linkedin.nl/fabricewerger)
