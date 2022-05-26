@@ -22,5 +22,5 @@ Creative embodied-experience for [CMD Breda](https://avanscmd.nl/), in collabora
 #### People I draw inspiration from
 
 - [Dries Depoorter](https://www.driesdepoorter.nl)
-- [Jacha Huisman](https://github.com/jaschahuisman))
+- [Jacha Huisman](https://github.com/jaschahuisman)
 - Hugo van Roy
