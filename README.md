@@ -18,3 +18,9 @@ Creative embodied-experience for [CMD Breda](https://avanscmd.nl/), in collabora
 - [Website](https://www.fabricewerger.nl)
 - [Twitter](https://www.twitter.com./fabricewerger)
 - [LinkedIn](https://www.linkedin.nl/fabricewerger)
+
+#### People I draw inspiration from
+
+- [Dries Depoorter](https://www.driesdepoorter.nl)
+- [Jacha Huisman](https://github.com/jaschahuisman))
+- Hugo van Roy
