@@ -11,10 +11,10 @@ IOS development for Inholland Haarlem, made with swift/swiftUI. Made to communic
 
 #### Sensual suit
 
-Creative embodied-experience for [CMD Breda](https://avanscmd.nl/), in collaboration with [May de haas](https://instagram.nl/maydehaas) and [Shimin Chen](https://instagram.nl/shiminchn). A project that can give you control over your emotions. An almost autonomous suit that works with C++, air, servomotors and heatpads.
+Creative embodied-experience for [CMD Breda](https://avanscmd.nl/), in collaboration with [May de haas](https://instagram.com/maydehaas) and [Shimin Chen](https://instagram.com/shiminchn). A project that can give you control over your emotions. An almost autonomous suit that works with C++, air, servomotors and heatpads.
 
 ## How to reach me
 
-- [Twitter](https://www.twitter.com./fabricewerger)
 - [Website](https://www.fabricewerger.nl)
+- [Twitter](https://www.twitter.com./fabricewerger)
 - [LinkedIn](https://www.linkedin.nl/fabricewerger)
