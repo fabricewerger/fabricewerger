@@ -16,8 +16,8 @@ Creative embodied-experience for [CMD Breda](https://avanscmd.nl/), in collabora
 ## How to reach me
 
 - [Website](https://www.fabricewerger.nl)
-- [Twitter](https://www.twitter.com./fabricewerger)
-- [LinkedIn](https://www.linkedin.nl/fabricewerger)
+- [Twitter](https://www.twitter.com/fabricewerger)
+- [LinkedIn](https://www.linkedin.com/in/fabricewerger/)
 
 #### People I draw inspiration from
 
