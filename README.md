@@ -1,6 +1,6 @@
 ## Introduction
 
-My name is Fabrice Werger, a software developer based near Rotterdam and Breda, the Netherlands. Originally trained as a multimedia designer and critical thinker at Avans University of Applied Sciences in Breda. My interests lie in the field of front-end development and creative technologies, and my main goal is to become better at being a creative developer.
+My name is Fabrice Werger, a creative developer based near Rotterdam and Breda, the Netherlands. Originally trained as a multimedia designer and critical thinker at Avans University of Applied Sciences in Breda. My interests lie in the field of front-end development and creative technologies, and my main goal is to become better at being a creative developer.
 
 ### Recent projects
 
